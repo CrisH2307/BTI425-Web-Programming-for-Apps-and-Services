@@ -1,0 +1,7 @@
+nav{
+  margin-bottom: 20px;
+}
+
+#postsTable tbody tr:hover{
+  cursor: pointer;
+}
